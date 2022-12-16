@@ -1,0 +1,21 @@
+{
+  "name": "projeto-final-thamiles-cuidando-delas",
+  "version": "1.0.0",
+  "description": "Projeto final do curso Todas em Tech da Reprograma. Tema: Prevenção da saúde física e mental para mulheres .",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thamilescarvalho/projeto-final-thamiles-cuidando-delas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thamilescarvalho/projeto-final-thamiles-cuidando-delas/issues"
+  },
+  "homepage": "https://github.com/thamilescarvalho/projeto-final-thamiles-cuidando-delas#readme"
+}
