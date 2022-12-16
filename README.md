@@ -1,6 +1,7 @@
-# Projeto-final
+PROJETO CUIDANDO DELAS
 
-Titulo da aplicação: Cuidando-delas
+![CapaCuidandoDelas](https://user-images.githubusercontent.com/109421612/208180185-b487c878-85cf-4634-afdb-7b4f76f28e9c.png)
+
 Aluna/dev.: Thamiles Carvalho
 Turma: On18
 
