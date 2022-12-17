@@ -2,17 +2,20 @@
 
 ![CapaCuidandoDelas](https://user-images.githubusercontent.com/109421612/208180185-b487c878-85cf-4634-afdb-7b4f76f28e9c.png)
 
-> #### Aluna/dev.: Thamiles Carvalho
-> #### Turma: On18
+> #### 🪪 Aluna/dev.: Thamiles Carvalho
+> #### 📒 Turma: On18
 > Aplicação final do curso de Back-End em Todas em Tech da **{Reprograma}** 2022 ;
 
 ## ℹ️ Base/razão social do projeto
 
-> Oferecer serviço para melhoria da saúde física e mental de mulheres na região de Fortaleza/CE. Com intuito de tornar mais prática e leve a rotina de cuidados com a saúde, a aplicação > contemplará ações de rastreamento (prevenção de risco), promoção à saúde (qualidade de vida), gestão de crônicos (linhas de cuidado) e atendimento às condições agudas para mulheres. O foco do cuidado será a pessoa, e não a doença, por meio de ações preventivas e estímulo ao autocuidado. 
+> Oferecer serviço para melhoria da saúde física e mental de mulheres na região de Fortaleza/CE. Com intuito de tornar mais prática e leve a rotina de cuidados com a saúde, a aplicação contemplará ações de rastreamento (prevenção de risco), promoção à saúde (qualidade de vida), gestão de crônicos (linhas de cuidado) e atendimento às condições agudas para mulheres. O foco do cuidado será a pessoa, e não a doença, por meio de ações preventivas e estímulo ao autocuidado. 
 
 > A prevenção é todo ato que tem impacto na redução de mortalidade e morbidade das pessoas.
 
-> A aplicação funcionará como um catálogo de atividades oferecidas para mulheres, contará com o MongoDB para armazenar o cadastro das participantes, bem como > as atividades que serão oferecidas, os pontos de atendimento e apoio, informações referentes a saúde e o direito da mulher.
+> A aplicação funcionará como um catálogo de atividades oferecidas para mulheres, contará com o MongoDB para armazenar o cadastro das participantes, bem como as atividades que serão oferecidas, os pontos de atendimento e apoio, informações referentes a saúde e o direito da mulher.
+
+![yoga](https://user-images.githubusercontent.com/109421612/208216843-7692de97-6666-45cd-99b9-cb62e0994388.jpg)
+
 
 # 💻 TECNOLOGIAS
 
@@ -39,7 +42,7 @@
 > * Essa arquitetura possibilita a divisão do projeto em camadas muito bem definidas.
 
 # ➡️ ROTAS 
-🔗Rotas de cadastro de participante
+🖇️ Rotas de cadastro de participante
 
 > | Método HTTP | Endpoint | Descrição |
 > | ----------- | -------- | --------- |
@@ -71,5 +74,8 @@
 
 
 ### ✅ Deletando um cadastro 
+
+> 🔗Links de referencias
+
 
 
