@@ -82,8 +82,9 @@
 ![delete](https://user-images.githubusercontent.com/109421612/208243210-4a9859ed-9fc9-4fe2-9902-6758ee478e1a.jpg)
 
 
-> 🔗Links de referencias
-> [Linkedin]([https://exemplo.com/](https://www.linkedin.com/in/thamilescarvalho22/)
+#### 🔗 Links
+
+> *Linkedin* <https://www.linkedin.com/in/thamilescarvalho22/>
 
 
 
