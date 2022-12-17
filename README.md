@@ -62,18 +62,24 @@
 
 
 ### ✅ Cadastrando uma participante
+![post-criar](https://user-images.githubusercontent.com/109421612/208243188-bf5766d1-6625-4f33-b121-a6e8673cdc54.jpg)
 
 
 ### ✅ Lista de todos os cadastros 
+![todasAsP](https://user-images.githubusercontent.com/109421612/208243197-4935ebe2-17db-4b8a-a1db-83125736ead9.jpg)
 
 
 ### ✅ Buscando um cadastro pelo ID
+![PesquisarID](https://user-images.githubusercontent.com/109421612/208243204-57ee156b-5ccb-4632-b537-380cd343c598.jpg)
 
 
 ### ✅ Atualizando um cadastro 
+![atualizarID](https://user-images.githubusercontent.com/109421612/208243217-04924c13-e80b-418c-9f5b-aa565c554f65.jpg)
 
 
 ### ✅ Deletando um cadastro 
+![delete](https://user-images.githubusercontent.com/109421612/208243210-4a9859ed-9fc9-4fe2-9902-6758ee478e1a.jpg)
+
 
 > 🔗Links de referencias
 
