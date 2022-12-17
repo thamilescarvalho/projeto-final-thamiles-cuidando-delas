@@ -60,6 +60,7 @@
 > * Todos os dados solicitados são obrigatórios, os mesmos poderão ser editado posteriormente; 
 > * Há a opção de deletar o cadastro completo da participante;
 
+> **EM FUNCIONAMENTO**
 
 ### ✅ Cadastrando uma participante
 ![post-criar](https://user-images.githubusercontent.com/109421612/208243188-bf5766d1-6625-4f33-b121-a6e8673cdc54.jpg)
@@ -82,6 +83,7 @@
 
 
 > 🔗Links de referencias
+> [Linkedin]([https://exemplo.com/](https://www.linkedin.com/in/thamilescarvalho22/)
 
 
 
