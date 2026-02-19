@@ -84,7 +84,7 @@
 
 #### 🔗 Links
 
-> *Linkedin* <https://www.linkedin.com/in/thamilescarvalho22/>
+> *Linkedin* <https://www.linkedin.com/in/thamilescarvalho085/>
 
 
 
